@@ -5,6 +5,6 @@ This repo contains a demo script to show your audience how they can use Azure Ma
 <br><br>
 ## Demo Scripts
 There is currently one script, with others to follow:
-[Automated Machine Learning Demo Script](automl-script.md)
+[AutoML in Azure ML Studio](automl-script.md)
 <br><br>
 Happy demo'ing, and feel free to submit suggestions via a pull request to make this even better!
