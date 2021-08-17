@@ -20,6 +20,9 @@ Make the payload JSON format, and paste the following "raw" body in:
 
 <br>
 
+## Demo Story
+This demo introduces us to Susannah, a business analyst at a bike rentals company.<br><br>Susannah has a hypothesis that certain weather conditions, days of the week and holdays at least in part determine the amount of demand for bicycle rentals.<br><br>Susannah uses AutoML within Azure ML Studio to validate her hypothesis, and from there, publishes the model she has just created for her mobile app developers to leverage.<br><br>
+
 ## The Script
 
 | Talk Track | Click Path | Screenshot  |
