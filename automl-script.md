@@ -1,7 +1,12 @@
 [<- Back to README](README.md)
 # Azure Studio Auto ML Demo
+
+## Demo Story
+This demo introduces us to Susannah, a business analyst at a bike rentals company.<br><br>Susannah has a hypothesis that certain weather conditions, days of the week and holdays at least in part determine the amount of demand for bicycle rentals.<br><br>Susannah uses AutoML within Azure ML Studio to validate her hypothesis, and from there, publishes the model she has just created for her mobile app developers to leverage.<br><br>
+
 ## Demo Setup
-Complete the first two modules in this learning path: https://docs.microsoft.com/en-us/learn/paths/create-no-code-predictive-models-azure-machine-learning/
+Complete the first two modules in this learning path: https://docs.microsoft.com/en-us/learn/paths/create-no-code-predictive-models-azure-machine-learning/<br><br>
+
 
 ## Postman Setup (for demonstrating a realtime ML endpoint)
 Set up a free account at Postman.com and create a POST request to your Bike Rentals ML model (or whatever name you have given it, such as "store visits" if that is more relevant to your audience).
@@ -16,12 +21,9 @@ Make the payload JSON format, and paste the following "raw" body in:
 
 - With the Auto ML module - change the bike rentals column in the source data file to a column name that resonates most with your client. Eg # store visitors in a day instead, and name the dataset appropriately
 - Ensure the "predicted_true" checkbox is unchecked in the metrics of an experiment run, for effect next time you tick it during the demo.
-- Follow the practice of "tell you what you are going to tell them, then tell them, then tell them what you told them." In other words, introduce Susannah (your persona), and help your audience understand the challenge she faces, and how she will be able to use Auto ML inside Azure Machine Learning Studio to predict bicycle rentals without needing to be a data scientist. Then run the demo below, and finally summarise what you just showed. This will greatly help your audience digest the demo and better understand how Azure ML Studio can help them too.
+- Follow the practice of "tell you what you are going to tell them, then tell them, then tell them what you told them." In other words, introduce Susannah (your persona), and help your audience understand the challenge she faces, and how she will be able to use Auto ML inside Azure Machine Learning Studio to predict bicycle rentals without needing to be a data scientist. Then deliver the demo below, and finally summarise what you just showed. This will greatly help your audience digest the demo and better understand how Azure ML Studio can help them too.
 
 <br>
-
-## Demo Story
-This demo introduces us to Susannah, a business analyst at a bike rentals company.<br><br>Susannah has a hypothesis that certain weather conditions, days of the week and holdays at least in part determine the amount of demand for bicycle rentals.<br><br>Susannah uses AutoML within Azure ML Studio to validate her hypothesis, and from there, publishes the model she has just created for her mobile app developers to leverage.<br><br>
 
 ## The Script
 
