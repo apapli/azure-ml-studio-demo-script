@@ -1,3 +1,4 @@
+[<- Back to README](README.md)
 # Azure Studio Auto ML Demo
 ## Demo Setup
 Complete the first two modules in this learning path: https://docs.microsoft.com/en-us/learn/paths/create-no-code-predictive-models-azure-machine-learning/
