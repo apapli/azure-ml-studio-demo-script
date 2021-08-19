@@ -9,7 +9,7 @@ Complete this module from Microsoft Learn: https://docs.microsoft.com/en-us/lear
 
 
 ## Postman Setup (for demonstrating a realtime ML endpoint)
-Set up a free account at Postman.com and create a POST request to your Bike Rentals ML model (or whatever name you have given it, such as "store visits" if that is more relevant to your audience).
+Set up a free account at https://www.postman.com/ and create a POST request to your Bike Rentals ML model (or whatever name you have given it, such as "store visits" if that is more relevant to your audience).
 
 In "Authorization" tab of this request, set the token type as "Bearer" and the token value as the primary auth key associated with your endpoint. (This can be found on the "Consume" tab of the relevant model's endpoint).
 
