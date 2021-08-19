@@ -5,7 +5,7 @@
 This demo introduces us to Susannah, a business analyst at a bike rentals company.<br><br>Susannah has a hypothesis that certain weather conditions, days of the week and holdays at least in part determine the amount of demand for bicycle rentals.<br><br>Susannah uses AutoML within Azure ML Studio to validate her hypothesis, and from there, publishes the model she has just created for her mobile app developers to leverage.<br><br>
 
 ## Demo Setup
-Complete the first two modules in this learning path: https://docs.microsoft.com/en-us/learn/paths/create-no-code-predictive-models-azure-machine-learning/<br><br>
+Complete this module from Microsoft Learn: https://docs.microsoft.com/en-us/learn/modules/use-automated-machine-learning/<br><br>
 
 
 ## Postman Setup (for demonstrating a realtime ML endpoint)
